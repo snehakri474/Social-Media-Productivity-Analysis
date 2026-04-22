@@ -19,6 +19,7 @@ Data Visualization Techniques
 Basic Data Cleaning & Transformation
 
 📂 Dataset
+
 Source: Kaggle
 Contains data on:
 Age, Gender, Job Type
@@ -29,15 +30,25 @@ Stress Levels
 Job Satisfaction
 
 📊 Dashboard Features
+
 KPI Cards (Screen Time, Job Satisfaction, Usage Stats)
+
 Social Media Usage vs Sleep Analysis
+
 Stress & Burnout Analysis
+
 Age Group & Gender-based Insights
+
 Decomposition Tree for Productivity Breakdown
 
 
 🔍 Key Insights
+
 High screen time is associated with changes in sleep patterns
+
 Social media usage varies significantly across age groups
+
 Productivity is influenced by multiple factors like job type and digital habits
+
 TikTok emerged as the most used platform in the dataset
+
